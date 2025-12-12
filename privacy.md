@@ -10,85 +10,109 @@
 
 Welcome to **One Meditation App** (“One Meditation App”, “we”, “us”, or “our”).
 
-Your privacy is important to us. This Privacy Policy explains how we collect, use, store, and protect information when you use our mobile application (“App”) and related services.
+This Privacy Policy explains how we collect, use, store, and protect information when you use our mobile application (“App”).
 
-By using the App, you agree to this Privacy Policy. If you do not agree, please discontinue use of the App.
+By using the App, you agree to this Privacy Policy.
 
 ---
 
-## 2. How the App Works (Summary)
+## 2. Overview of Data Use
 
-- The App can be used **anonymously** without creating an account.
-- Users may later choose to sign in using **Apple**, **Google**, or **email** (typically when subscribing).
-- The App includes meditation tools, a daily agenda, a shared “Oneness” meditation space, user-uploaded meditation audio, gamified spiritual practices, and optional rankings.
-- The App does **not** display ads and does **not** sell user data.
+- The App can be used **anonymously**, without signing in.
+- During onboarding, users are required to answer a small number of **personalization questions** and choose a **nickname**.
+- Signing in with Apple, Google, or email is required **only** if the user chooses to subscribe.
+- The App does **not** display ads and does **not** sell personal data.
 
 ---
 
 ## 3. Information We Collect
 
-### A. Account and Authentication Information
+### A. Mandatory Onboarding Information
+
+To personalize the experience, the App requires:
+
+- **Motivation or goal selections** (e.g., reduce stress, improve sleep)
+- **Meditation experience level**
+- **Nickname / display name**
+
+The nickname:
+- Does **not** need to be your real name  
+- Is chosen freely by you  
+- Is used only as a display name within the App  
+
+We do not require real names.
+
+---
+
+### B. Account and Authentication Information
 
 Depending on how you use the App, we may collect:
 
 - **Anonymous user identifier** (when using the App without signing in)
 - **Apple or Google sign-in identifier** (if you choose to sign in)
 - **Email address** (only if you choose email sign-in)
-- **Subscription status** (active/inactive, plan type)
+- Subscription status (active/inactive, plan type)
 
-We do **not** store plain-text passwords.
+We do not store plain-text passwords.
 
-### B. App Usage and Practice Data
+---
 
-We collect data necessary to provide core functionality, including:
+### C. App Usage and Practice Data
+
+We collect data necessary to provide the App’s core features, including:
 
 - Daily agenda or routine items you create
-- Completion status of tasks or practices
+- Completion status of practices
 - Meditation sessions, durations, and streaks
-- Countdown timer usage and bell settings
+- Countdown timer usage
 - Participation in gamified spiritual practices
 - Ranking or score data derived from activity
 
-### C. User-Generated Content
+---
+
+### D. User-Generated Content
 
 If you choose to use these features, we may store:
 
-- **Meditation audio files** you upload
-- Titles or metadata related to uploaded meditations
-- **Intentions** submitted when lighting a candle in the Oneness space
-- Meditation intentions
+- Meditation audio files you upload
+- Titles or metadata related to uploaded content
+- Intentions submitted in the Oneness meditation space
 
-Intentions are private to the user. 
+Some content (such as intentions or rankings) may be visible to other users depending on feature configuration. Do not share sensitive personal information in public areas.
 
-### D. Notifications Preferences
+---
+
+### E. Notifications Preferences
 
 If enabled by you, we may store:
 
 - Push notification preference (on/off)
 - Device token required to deliver push notifications
-- Email notification preference (if email communication is enabled in the future)
+- Email notification preference (if email communication is enabled)
 
-### E. Technical and Diagnostic Data
+---
+
+### F. Technical and Diagnostic Data
 
 To maintain performance and reliability, we may collect:
 
 - Device type and operating system
 - App version and language
 - Crash logs and performance data
-- Basic usage events (for diagnostics and improvement)
+- Basic usage events for diagnostics and improvement
 
 ---
 
 ## 4. How We Use Information
 
-We use information to:
+We use collected information to:
 
-- Provide and operate the App
-- Save your data and preferences (agenda, meditation sessions, uploads)
-- Enable features such as the Oneness space, timers, and rankings
+- Operate and personalize the App
+- Save your progress and preferences
+- Enable shared features such as the Oneness space and rankings
 - Maintain security and prevent misuse
-- Improve app stability and user experience
-- Communicate important service-related messages
+- Improve performance and user experience
+- Communicate important service-related information
 
 We do **not** sell or rent personal information.
 
@@ -96,95 +120,66 @@ We do **not** sell or rent personal information.
 
 ## 5. Subscriptions and Payments
 
-We offer monthly and annual subscriptions. Purchases are processed by the **Apple App Store** and/or **Google Play** (depending on your device).
+Subscriptions are processed by the **Apple App Store** or **Google Play Store**.
 
-We do not receive your full payment card details. We may receive subscription-related information such as:
-
-- Whether a subscription is active
-- Plan type (monthly/annual)
-- Renewal or expiration status
-
-This information is used only to unlock premium features.
+We do not receive payment card details. We may receive subscription status information solely to unlock premium features.
 
 ---
 
-## 6. Sharing of Information
+## 6. Data Storage and Security
 
-We may share limited information with service providers that help operate the App, such as:
-
-- Authentication providers (Apple, Google, email authentication)
-- Cloud storage/database providers used to run the App
-- Analytics and diagnostics tools (crash reports, performance monitoring)
-- Push notification delivery providers (if enabled)
-
-We may also share information if required by law or to protect rights, safety, and integrity of the App.
-
-We do not share personal information with advertisers for third-party ad targeting.
+We use reasonable technical and organizational measures to protect information. No system is completely secure, and use of the App is at your own risk.
 
 ---
 
-## 7. Data Storage and Security
-
-We use reasonable technical and organizational measures to protect your information. However, no system is 100% secure.
-
-If you use email sign-in, passwords are handled by the authentication provider and are not stored in plain text by us.
-
----
-
-## 8. Data Retention
+## 7. Data Retention
 
 We retain information as long as necessary to provide the App and comply with legal obligations.
 
-If you request deletion, we will delete or anonymize personal information as required by applicable law.
-
-To request deletion, contact: **nsgn.one@gmail.com**
+You may request deletion of your data by contacting **nsgn.one@gmail.com**.
 
 ---
 
-## 9. Anonymous Accounts and Account Linking
+## 8. Anonymous Accounts and Account Linking
 
-If you start using the App anonymously and later sign in with Apple/Google/email, we may link your anonymous data to your signed-in account so you keep your progress.
+If you start using the App anonymously and later sign in, your anonymous data may be linked to your signed-in account to preserve progress.
 
-If you uninstall and reinstall the App while using an anonymous account and do not upgrade/sign in, you may lose access to the previous anonymous data.
+If you uninstall the App without upgrading/signing in, anonymous data may be lost.
 
 ---
 
-## 10. Your Rights and Choices
+## 9. Your Rights and Choices
 
 Depending on your jurisdiction, you may have rights to:
 
 - Access, correct, or delete your data
-- Request a copy of your data (data portability)
-- Withdraw consent where applicable (e.g., notifications)
+- Request data portability
+- Withdraw consent where applicable
 
-You can control push notifications in the App and in your device settings.
-
-To exercise your rights, contact: **nsgn.one@gmail.com**
+Push notifications can be disabled in the App and device settings.
 
 ---
 
-## 11. Children’s Privacy
+## 10. Children’s Privacy
 
-The App is not intended for children under 13, and we do not knowingly collect personal information from children under 13.
-
-If you believe a child has provided information, contact us for removal.
+The App is not intended for children under 13. We do not knowingly collect data from children under 13.
 
 ---
 
-## 12. International Data Transfers
+## 11. International Data Transfers
 
-Your information may be processed in countries other than where you live. We take steps to protect information in accordance with applicable privacy laws.
-
----
-
-## 13. Updates to This Policy
-
-We may update this Privacy Policy periodically. Updates will be posted with a revised effective date.
+Your information may be processed in countries other than your own. We take steps to protect data under applicable laws.
 
 ---
 
-## 14. Contact
+## 12. Updates to This Policy
 
-If you have questions or concerns about this Privacy Policy, contact:
+We may update this Privacy Policy. Updates will be posted with a revised effective date.
 
-- **Email:** nsgn.one@gmail.com  
+---
+
+## 13. Contact
+
+For questions or requests related to privacy:
+
+**Email:** nsgn.one@gmail.com
